@@ -1,11 +1,21 @@
 @media screen and (max-width:376px){
     body{
+        background-color:hsl(212, 45%, 89%) ;
         height:100%;
     }
     .container{
+        border-radius: 20px;
         height: 600px;
         margin:80px 30px;
-        background-color: #c89f9f;
+        background-color:#fff;
+    }
+    .container-img{
+        text-align: center;
+    }
+    .img-qrcode{
+        width:277px ;
+        margin-top: 20px;
+        border-radius: 10px;
     }
     .corpo-text{
         display: inline-block;
@@ -13,13 +23,18 @@
         margin-right: 30px;
     }
     .titulo-um{
-        font-size: 1.45rem;
-        text-align: justify;
-        
+        font-family: 'Outfit', sans-serif;
+        font-size: 1.39rem;
+        font-weight: 700;
+        text-align: center;
     }
     .text-body{
-        color:lightgrey;
-        font-size: 15px;
+        font-family: 'Outfit', sans-serif;
+        color:#7b879d;
+        font-size: 1.01rem;
+        font-weight: 400;
+        text-align:center;
+        margin:0px 4px;
     }
 
 
