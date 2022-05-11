@@ -35,6 +35,7 @@
         font-weight: 400;
     }
 }
+/* inicio do codigo desktop */
 @media screen and (min-width: 1420px) {
     body{
         margin: 8% 37%;
