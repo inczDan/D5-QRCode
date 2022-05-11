@@ -1,13 +1,14 @@
 @media screen and (max-width:376px){
     body{
-        background-color:hsl(212, 45%, 89%) ;
+        background-color:#d6e2f0 ;
         height:100%;
     }
     .container{
         border-radius: 20px;
-        height: 600px;
-        margin:80px 30px;
+        height: 510px;
+        margin:80px 20px;
         background-color:#fff;
+        box-shadow: 20px 20px 40px #c9d3df;
     }
     .container-img{
         text-align: center;
@@ -36,7 +37,4 @@
         font-weight: 400;
         /* margin:0px 4px; */
     }
-
-
-
 }
