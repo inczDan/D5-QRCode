@@ -45,21 +45,26 @@ body {
 
 /* inicio do codigo desktop*/
 body {
-    margin: auto;
+    margin:auto;
     width: 355px;
     background-color: #d6e2f0;
     height: 100%;
 }
-
-.container {
+.container{
+    margin:50% auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.card {
     border-radius: 20px;
     height: 493px;
-    margin: 80px 20px 20px;
     background-color: #fff;
     box-shadow: 20px 20px 40px #c9d3df;
 }
 
-.container-img {
+.card-img {
     text-align: center;
 }
 
