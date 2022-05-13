@@ -51,7 +51,7 @@ body {
     height: 100%;
 }
 .container{
-    margin:50% auto;
+    margin:auto;
     display: flex;
     justify-content: center;
     align-items: center;
