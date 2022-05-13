@@ -1,3 +1,4 @@
+/*
 body {
     background-color: #d6e2f0;
     height: 100%;
@@ -39,9 +40,12 @@ body {
     color: #7b879d;
     font-weight: 400;
 }
+*/
 
+
+/* inicio do codigo desktop*/
 body {
-    margin: 8% 37%;
+    margin: auto;
     width: 355px;
     background-color: #d6e2f0;
     height: 100%;
